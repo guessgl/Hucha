@@ -1,0 +1,12 @@
+BİRİKİMİM 4.0 - iPhone ve GitHub Pages
+
+1. ZIP içindeki 7 dosyayı GitHub projesinin kök dizinine yükleyin (ZIP dosyasını değil).
+2. Settings > Pages > Deploy from a branch > main / (root) > Save.
+3. Siteyi iPhone Safari ile açıp Paylaş > Ana Ekrana Ekle.
+4. İlk açılışta başlangıç tarihi, alternatif sayısı ve tutarlarını seçin.
+5. Her gün bir tutar veya Alım yapmadım seçilebilir; aynı seçeneğe tekrar dokunmak kaydı siler.
+6. Aylık rapor butonundan paylaşılabilir PNG (1080x1920) hazırlayın.
+7. Veriler yalnızca cihazın tarayıcısında kaydedilir; JSON yedek indirmeniz önerilir.
+8. iPhone anımsatıcısı için ICS dosyasını Apple Takvim’e manuel ekleyin.
+
+ÖNEMLİ: Uygulama doğrudan bildirim göndermez. Raporlar varsayılan olarak gizlidir; kullanıcı paylaşmayı seçerse tutarlar görselde yer alır.
